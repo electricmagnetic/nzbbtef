@@ -33,7 +33,7 @@ const colourLibrary = {
   },
   B: {
     label: 'Medium Blue',
-    value: '#2B8FB3',
+    value: '#0060EE',
   },
   DB: {
     label: 'Dark Blue',
