@@ -47,6 +47,10 @@ const colourLibrary = {
     label: 'Light Green',
     value: '#ABFE82',
   },
+  L: {
+    label: 'Light Green',
+    value: '#ABFE82',
+  },
   PG: {
     label: 'Pale Green',
     value: '#4DC350',
